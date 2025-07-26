@@ -1,1 +1,1 @@
-This is my new SE100 repository
+This is my new SE100 repositorySE100 will help you build a robust groundwork for your software engineering career by acquiring foundational web development skills.
